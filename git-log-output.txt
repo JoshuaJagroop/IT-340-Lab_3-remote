@@ -1,0 +1,32 @@
+commit fbe36da4f868f8eed00c8a928f1d3ddbacd14e2e
+Author: Joshua Jagroop <jdj23@njit.edu>
+Date:   Fri Sep 18 16:31:18 2026 -0400
+
+    Revert "Added a new text file"
+    
+    This reverts commit eef53a77fe5ba6f984a17c04bc42a2360a9aa66f.
+
+commit eef53a77fe5ba6f984a17c04bc42a2360a9aa66f
+Author: Joshua Jagroop <jdj23@njit.edu>
+Date:   Fri Sep 18 16:25:16 2026 -0400
+
+    Added a new text file
+
+commit 6518fbeb084f1a34f2474e68ba305c7a948a67f7
+Author: Joshua Jagroop <jdj23@njit.edu>
+Date:   Fri Sep 18 15:55:58 2026 -0400
+
+    added comment to passwd
+
+commit ae47884f8f3dd471e29e48db7ba758aa699565b6
+Author: Joshua Jagroop <jdj23@njit.edu>
+Date:   Fri Sep 18 15:50:46 2026 -0400
+
+     Initial commit with system files
+    
+     Changes to be committed:
+            new file:   group
+            new file:   hostname
+            new file:   multigrain_timestamps
+            new file:   os-release
+            new file:   passwd
